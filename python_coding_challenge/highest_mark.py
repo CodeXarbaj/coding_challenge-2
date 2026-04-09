@@ -1,4 +1,4 @@
-# Given dictionary
+# given dictionary
 students = {"Amit": 80, "Bhanu": 95, "Chikara": 78}
 
 # Assume first student max
